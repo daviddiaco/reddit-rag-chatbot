@@ -1,0 +1,17 @@
+Upvotes: 45
+I started tracking every memecoin that explodes
+
+After missing about 5 potential 30x tokens in the last two months, including some that had only 20 followers on X and a few memes on repeat, I got frustrated and started keeping a journal about what happens after launch.
+
+The idea is simple. Every time a token jumps 10x in less than 24 hours, I save it and look back to see what made it explode. What did they have in common? Where did the hype start? What signals did they show?
+
+Surprisingly, almost all of them started with a small but active and engaged community, plus some wallets making the first buys that followed certain patterns. Usually, there was no presale, but there was an initial hidden fee in the tokenomics.
+
+One article that helped me a lot during this process was from BananaGun, about how to catch viral memecoins before they explode. It's not a fixed recipe, but some ideas made me see things differently - especially the idea that you need to track early wallet movements, not just the top trending tokens on DEXTools.
+
+That's how I managed to get my first clean entry into a token that made 8x in 6 hours. I'm not an expert, but if you take time to look for patterns, they start to show up.
+
+For those interested, here is the article:  
+[https://www.bananagun.io/blog/how-to-find-and-snipe-viral-memecoins-before-they-30x](https://www.bananagun.io/blog/how-to-find-and-snipe-viral-memecoins-before-they-30x)
+
+https://www.reddit.com/r/CryptoMoonShots/comments/1l9c3av/i_started_tracking_every_memecoin_that_explodes/

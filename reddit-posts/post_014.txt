@@ -1,0 +1,46 @@
+Upvotes: 279
+Blockchain on magnetic tape—leave a note and listen for the whirrrrr
+
+### TL;DR  
+Leave a voice note at [theB33P.com](https://theb33p.com) (or in Telegram) → an ESP32 relay board *physically presses PLAY* on a Panasonic KX-T cassette phone → your message rolls out on real magnetic tape while everyone in chat hears it through a live stream.  
+Today you can try it for free; tomorrow $B33P holders will own priority access, on-chain logs, and collectible “tape stub” NFTs.
+
+---
+
+## The nerdy bit (plain-English)  
+
+* Hardware hack: ESP32 + six relays wired to the phone’s Play/Stop/Rew/FF buttons. No emulation—actual tape whirring.  
+* Web ↔️ tape bridge: Browser recordings hit a FastAPI endpoint, run through FFmpeg, and queue up next to Telegram voice notes.  
+* Live demo: We stream the phone’s speaker 24/7; you’ll hear the click, the hiss, then your own message.  
+* Token utility: $B33P token (SPL) is tradable now. On-chain logging + tip escrow land end-June; NFT “tape stubs” drop in July.  
+
+---
+
+## Why bother?  
+Meme coins are fun, but we wanted something you can hear and touch.  
+Every message becomes a little piece of audio history—soon permanently logged on Solana. Think of it as a crowdsourced time capsule.
+
+---
+
+### Kick the tires  
+
+1. Hit theB33P.com → press “Leave a message.”  
+2. Watch the queue counter tick up.  
+3. Listen on the embedded stream or our [PumpFun](https://pump.fun/coin/BRLiKoD5jMwBYG82Az2R33Jo8hdGxhS5KLz385utpump) as the tape plays.  
+4. Throw feedback, feature ideas, or cassette puns below.  
+
+*(Building something weird on Solana? Ping me—open to collabs.)*
+
+---
+
+#### Contract & Trading  
+
+* Contract address: BRLiKoD5jMwBYG82Az2R33Jo8hdGxhS5KLz385utpump  
+* [Live Chart / Stream](https://pump.fun/coin/BRLiKoD5jMwBYG82Az2R33Jo8hdGxhS5KLz385utpump)  
+* [One-Click Swap](https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=BRLiKoD5jMwBYG82Az2R33Jo8hdGxhS5KLz385utpump)
+
+---
+
+Links: [Website](https://theb33p.com) | Telegram: @ theB33P | [X/Twitter](https://x.com/theb33p) | [Linktree](https://linktr.ee/theb33p) | [TikTok demos](https://tiktok.com/@theb33p)
+
+https://www.reddit.com/r/CryptoMoonShots/comments/1l9458p/blockchain_on_magnetic_tapeleave_a_note_and/

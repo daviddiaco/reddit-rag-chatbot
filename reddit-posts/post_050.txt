@@ -1,0 +1,44 @@
+Upvotes: 2
+AIOZ Network: A DePIN Powerhouse Driving Web3 AI Storage & Streaming | Big May Milestones
+
+Hey folks! I’m pretty sure a good number of us have already heard about AIOZ Network. For those that haven’t, this is a DePIN infrastructure for Web3 AI, decentralized streaming, and decentralized storage, pinning service for NFTs, files, as well as other functionalities. 
+
+This honestly feels like one of the standout DePIN projects to look forward to long-term. It ticks every important box from utility, tokenomics, fundamentals, a great team, awesome partnerships and developments. During the month of May, they actually delivered key developments in one the most transformational months for the ecosystem. 
+
+Here's what they rolled out:
+
+**The launch of AIOZ AI V1: The Future of AI is Decentralized!**
+
+They launched AIOZ AI V1, a game-changing platform where devs can discover, deploy, and monetize AI models + datasets. This is all supercharged by a DePIN-powered compute layer and built to scale.
+
+Top tier media publishing platforms such as CoinDesk and Blockworks feature took notice. This represents huge publicity for a significant achievement for the project. 
+
+**AIOZ x Neo: Powering the Next Wave of Web3 Builders**
+
+A partnership with Neo(Open network for the Smart economy) to bring the entire AIOZ DePIN stack to their dev ecosystem.
+
+Now Neo developers can tap into:
+
+AIOZ AI
+
+AIOZ Storage
+
+AIOZ Pin
+
+AIOZ Stream (coming soon)
+
+This unlocks high-performance infra for next-gen dApps on Neo.
+
+If curious, you can check the Collab Announcement[ here](https://x.com/AIOZNetwork/status/1928082103398236671)
+
+**AIOZ Pin: The Backbone of Web3 Storage**
+
+AIOZ Pin continues to dominate as the go-to IPFS infrastructure for Web3.
+
+From NFTs to AI datasets to game assets, AIOZ Pin delivers fast, persistent, and globally distributed access, powered by the DePIN Content Delivery Network (CDN)
+
+Check out some of the numbers it has pulled off recently =>[AIOZ Pin Update](https://x.com/AIOZNetwork/status/1928512389990801890)
+
+Overall, this is a DePIN powerhouse that’s heading in the right direction. What do you guys think about this ecosystem?
+
+https://www.reddit.com/r/CryptoMoonShots/comments/1l7ip3o/aioz_network_a_depin_powerhouse_driving_web3_ai/

@@ -1,0 +1,44 @@
+Upvotes: 136
+🚨 New Meta? Solana Validator Raffles 30% of Rewards Weekly to LST Holders - Only 120 People in So Far
+
+In the sea of copy-paste staking projects, this one actually caught my attention.
+Vybe Network, a Solana validator + API provider with over 100K SOL staked, just launched something called Vybe Draw, a weekly raffle where they give away 30% of their validator rewards to anyone holding their LST, VybeSOL.
+
+That’s a minimum of 20 SOL/week, split between 3 winners:
+🔹1st: ~10 SOL (50%)
+🔹2nd: ~6 SOL (30%)
+🔹3rd: ~4 SOL (20%)
+
+How to earn tickets:
+
+🔸10 tickets/day per VybeSOL you hold
+🔸5 tickets/day for every VybeSOL held by someone you referred
+
+They’ve also added multipliers to reward engagement:
+
+🔸Referral Boost: +25% on your final ticket count if you use a referral code
+🔸Balance Multiplier: Bigger VybeSOL holdings can boost your tickets up to 2.5x
+
+
+Raffle draws happen every Monday at 5PM PST.
+How to Join:
+1. Go to vybe.fyi/raffle
+2. Connect your wallet
+3. Click “Join Vybe Draw” and agree to ToS
+4. You can swap SOL to VybeSOL directly on the site or on Sanctum.so/vybesol 
+
+That’s it. You're in.
+
+If you do sign up, using a referral code gives you a 25% ticket boost.
+If you want to use mine, I’d really appreciate it 🙏
+
+ 👉 https://vybe.fyi/raffle?r=oGWfw9hV
+
+Pretty cool concept — I’ve never seen a validator do something like this before.
+
+Good luck!
+
+– TSXinsider
+
+
+https://www.reddit.com/r/CryptoMoonShots/comments/1l91cq3/new_meta_solana_validator_raffles_30_of_rewards/
