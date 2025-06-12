@@ -1,0 +1,58 @@
+# 🤖 Reddit RAG Chatbot
+
+A Retrieval-Augmented Generation (RAG) chatbot that summarizes and answers questions about the latest cryptocurrency discussions on Reddit — specifically from the [r/CryptoMoonShots](https://www.reddit.com/r/CryptoMoonShots/) subreddit.
+
+Built as a portfolio project to demonstrate real-world use of LangChain, OpenAI, ChromaDB, and Gradio in building AI-powered apps.
+
+## 🚀 Features
+
+- 🔍 Fetches the latest posts from r/CryptoMoonShots
+- 🧠 Embeds Reddit content into a local vector database (ChromaDB)
+- 💬 Uses GPT-4o (or GPT-3.5) to answer user questions based on Reddit content
+- 🖥️ Clean dark-mode Gradio chat UI
+- ❌ Refuses to guess — only answers based on Reddit data
+- 🔁 Supports follow-up questions using memory
+
+## 🧱 Tech Stack
+
+- **Python**
+- **LangChain**
+- **OpenAI API (GPT-4o or GPT-3.5-turbo)**
+- **Chroma** (local vector store)
+- **Gradio** (chat UI)
+- **Reddit API (via PRAW)**
+
+## ⚙️ Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone git@github.com:daviddiaco/reddit-rag-chatbot.git
+cd reddit-rag-chatbot
+
+### 2. Set up environment
+Install dependencies:
+
+pip install -r requirements.txt
+
+Create a .env file based on the template:
+
+cp .env.example .env
+Edit .env with your API keys:
+
+OPENAI_API_KEY=your-openai-key
+REDDIT_CLIENT_ID=your-reddit-client-id
+REDDIT_CLIENT_SECRET=your-reddit-client-secret
+REDDIT_USER_AGENT=reddit-rag-script
+
+### 3. Fetch Reddit posts
+
+python src/fetch_reddit.py
+
+### 4. Build the vector database
+
+python src/build_vectorstore.py
+
+### 5. Launch the chatbot
+
+python src/chatbot.py
